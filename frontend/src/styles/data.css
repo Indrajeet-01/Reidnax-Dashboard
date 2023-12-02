@@ -1,0 +1,20 @@
+/* src/components/Data.css */
+.data-container {
+    width: 90%;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: auto; /* Enable horizontal scrolling for small screens */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Optional: Add styles for the table header */
+  .data-container th {
+    background-color: #f4f4f4;
+  }
+  
+  /* Optional: Add styles for alternating rows */
+  .data-container tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  

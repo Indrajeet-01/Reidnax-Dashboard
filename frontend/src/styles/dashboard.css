@@ -1,0 +1,32 @@
+/* src/styles/dashboard.css */
+.dashboard-container {
+    margin-left: 60%;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    
+  }
+  
+  .content-container {
+    margin-top: 10%;
+    display: flex;
+    flex: 2;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .tabs-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color: #f0f0f0;
+  }
+  
+  .drawer-container {
+    width: 50%;
+  }
+  
+  /* Add additional styling as needed */
+  
+  
+  
